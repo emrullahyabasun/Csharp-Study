@@ -24,7 +24,7 @@ namespace TEST
             string[,] ourAnimals = new string[maxPets, 6];
 
 
-            
+
             switch (i)
             {
                 case 0:
@@ -36,6 +36,7 @@ namespace TEST
                     animalNickname = "lola";
                     break;
             }
+        }
     }
 }
 
